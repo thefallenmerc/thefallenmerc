@@ -8,7 +8,6 @@ I like writing about tech related stuff, educating colleagues and other devs abo
 - 👯 I’m looking to collaborate on anything that is fun and challenging
 - 💬 Ask me about Typescript, Golang, Javascript, React, PHP, Laravel, Express, Flutter, Dart and Node 
 - 📫 How to reach me: [Github](https://github.com/thefallenmerc), [Dev.to](https://dev.to/https://dev.to/shubhamsinghchahar), [Twitter](https://twitter.com/albakchod), [Facebook](https://facebook.com/shubham.chahar), [Linkedin](https://www.linkedin.com/in/shubhamschahar)
-- ⚡ Fun fact: Things look easy when you see me doing them.
 
 
 <!--
